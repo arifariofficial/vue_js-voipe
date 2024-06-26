@@ -1,0 +1,35 @@
+{
+  "numTotalTestSuites": 2,
+  "numPassedTestSuites": 2,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 1,
+  "numPassedTests": 1,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1719374122557,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "App.vue"
+          ],
+          "fullName": " App.vue renders a title",
+          "status": "passed",
+          "title": "renders a title",
+          "duration": 11,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1719374123030,
+      "endTime": 1719374123041,
+      "status": "passed",
+      "message": "",
+      "name": "/Users/ari/Desktop/vue_js-voipe/heppaseikkailu/src/__tests__ /App.spec.ts"
+    }
+  ]
+}
